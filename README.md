@@ -20,10 +20,10 @@ In this homework assignment, you will help Harold accomplish the following tasks
 
 ## Files
 
-* [sfo_neighborhoods_census_data.csv](Starter_Code/Data/sfo_neighborhoods_census_data.csv)
-* [neighborhoods_coordinates.csv](Starter_Code/Data/neighborhoods_coordinates.csv)
-* [Rental Analysis Starter Jupyter Notebook](Starter_Code/rental_analysis.ipynb)
-* [Dashboard Starter Jupyter Notebook](Starter_Code/dashboard.ipynb)
+* [sfo_neighborhoods_census_data.csv](Data/sfo_neighborhoods_census_data.csv)
+* [neighborhoods_coordinates.csv](Data/neighborhoods_coordinates.csv)
+* [Rental Analysis Starter Jupyter Notebook](rental_analysis.ipynb)
+* [Dashboard Starter Jupyter Notebook](dashboard.ipynb)
 
 ## Instructions
 
